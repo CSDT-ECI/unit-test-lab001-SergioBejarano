@@ -20,3 +20,8 @@ To run the tests and verify coverage, I used the following command:
  pytest --cov=python.yatzy python/ -v
 ```
 
+
+## Results
+
+<img width="2141" height="1245" alt="image" src="https://github.com/user-attachments/assets/a3daa0ec-7120-4fbb-9e85-29e5e97ea888" />
+
