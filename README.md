@@ -17,6 +17,6 @@ The problem that this code is designed to solve is explained here: [Yatzy](https
 To run the tests and verify coverage, I used the following command:
 
 ```
-pytest --cov=python python/test_yatzy.py -v
+ pytest --cov=python.yatzy python/ -v
 ```
 

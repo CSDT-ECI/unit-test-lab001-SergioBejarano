@@ -1,5 +1,5 @@
 import pytest
-from yatzy import Yatzy
+from python.yatzy import Yatzy
 
 class TestCrazyChance:
 
