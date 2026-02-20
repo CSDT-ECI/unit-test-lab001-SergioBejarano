@@ -11,3 +11,12 @@ If you like this Kata, you may be interested in [my books](https://leanpub.com/u
 
 The problem that this code is designed to solve is explained here: [Yatzy](https://sammancoaching.org/kata_descriptions/yatzy.html)
 
+
+## Commands to verify tests and coverage
+
+To run the tests and verify coverage, I used the following command:
+
+```
+pytest --cov=python python/test_yatzy.py -v
+```
+
